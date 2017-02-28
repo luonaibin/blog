@@ -1,4 +1,4 @@
-FROM daocloud.io/library/golang:1.8rc3-alpine
+FROM daocloud.io/library/golang:1.8rc3
 
 WORKDIR /app/gopath/mdblog
 ENV GOPATH /app/gopath
