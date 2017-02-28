@@ -3,7 +3,7 @@
 <head>
 
 <meta charset="utf-8">
-<title>mdblog</title>
+<title>eijan</title>
 <link rel="shortcut icon" href="http://7xku3c.com1.z0.glb.clouddn.com/China.ico" type="image/x-icon">
 <link href="http://7xku3c.com1.z0.glb.clouddn.com/md_style.css" rel="stylesheet">
 <link href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
@@ -28,11 +28,11 @@
 				<div class="collapse navbar-collapse navbar-ex1-collapse">
 					<ul class="nav navbar-nav" id="menu">
 						<li><a href="/"><i class="fa fa-home"></i></a></li>
-						<li><a href="/Go">Go</a></li>
-						<li><a href="/Java">Java</a></li>
+						<li><a href="/Qt">Qt</a></li>
+						<li><a href="/Qml">Qml</a></li>
 						<li><a href="/Linux">Linux</a></li>
 						<li><a href="/Item">Item</a></li>
-						<li><a href="/Docker">Docker</a></li>
+						<li><a href="/Note">Note</a></li>
 						<li><a href="/Plan">Plan</a></li>
 					</ul>
 				</div>
@@ -55,11 +55,7 @@
 				  	<h4><small>学习链接</small></h4>
 				  </div>
 				  <hr>
-					<strong><a href="https://gowalker.org/" title="gowalker" rel="nofollow">gowalker</a></strong> 
-					<strong><a href="https://godoc.org/" title="godoc" rel="nofollow">godoc</a></strong> 
-					<strong><a href="https://gopm.io/" title="gopm" rel="nofollow">gopm</a></strong> 
 					<strong><a href="http://stdlib.daoapp.io" title="stdlib" rel="nofollow">gostd</a></strong>
-					<strong><a href="https://www.shiyanlou.com/" title="shiyanlou" rel="nofollow">shiyanlou</a></strong>
 				</div>
 			  </div>
 
@@ -76,30 +72,30 @@
 	  </thead>
 	  <tbody>
 		<tr>
-		  <td class="status-label"><a href="/Go">Go</a></td>
-		  <td class="value"><a href="/Go">9</a></td>
+		  <td class="status-label"><a href="/Qt">Qt</a></td>
+		  <td class="value"><a href="/Qt">0</a></td>
 		</tr>
 		<tr>
-		  <td class="status-label"><a href="/Java">Java</a></td>
-		  <td class="value"><a href="/Java">8</a></td>
+		  <td class="status-label"><a href="/Qml">Qml</a></td>
+		  <td class="value"><a href="/Qml">0</a></td>
 		</tr>
 		<tr>
 		  <td class="status-label"><a href="/Item">Item</a></td>
-		  <td class="value"><a href="/Item">5</a></td>
+		  <td class="value"><a href="/Item">0</a></td>
 		</tr>
 		<tr>
 		  <td class="status-label"><a href="/Linux">Linux</a></td>
-		  <td class="value"><a href="/Linux">6</a></td>
+		  <td class="value"><a href="/Linux">0</a></td>
 		</tr>
 		<tr>
-		  <td class="status-label"><a href="/Docker">Docker</a></td>
-		  <td class="value"><a href="/Docker">2</a></td>
+		  <td class="status-label"><a href="/Note">Note</a></td>
+		  <td class="value"><a href="/Note">0</a></td>
 		</tr>
 	  </tbody>
 	</table>
   </div>
 
-<div class="panel panel-default">
+<!-- <div class="panel panel-default">
 	<div class="panel-heading">
 	  <h3 class="panel-title">Recently</h3>
 	</div>
@@ -107,7 +103,7 @@
 		<h4><a href="/Recently">web-site</a></h4>
 	</div>
   </div>
-
+ -->
 
 		<div class="col-md-12">
 		<footer class="footer">

@@ -1,2 +1,2 @@
 # blog
-Eijan's blog
+[Eijan's blog](http://eijan.daoapp.io)
